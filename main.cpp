@@ -1,5 +1,5 @@
 #include <iostream> 
-#include "grade.hpp " 
+#include "grade.cpp " 
 
 using namespace std;  
 
